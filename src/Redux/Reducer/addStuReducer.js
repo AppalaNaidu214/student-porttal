@@ -3,7 +3,7 @@ import { store } from "../store"
 const initialData = [
     {
         id: 111,
-        name: "Aaa",
+        name: "Aaaa",
         batch: 1,
         email: "atul123@abilioit.com",
         age: 28
